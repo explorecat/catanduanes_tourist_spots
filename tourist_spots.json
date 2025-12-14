@@ -4,10 +4,11 @@
     "title": "Marilima Beach",
     "subtitle": "Virac, Catanduanes",
     "images": [
-      "https://raw.githubusercontent.com/<explorecat>/<catanduanes_tourist_spots
->/main/images/marilima_beach1.jpg",
-      "https://raw.githubusercontent.com/<explorecat>/<catanduanes_tourist_spots
->/main/images/marilima_beach2.jpg"
+      "https://raw.githubusercontent.com/explorecat/catanduanes_tourist_spots/main/images/marilima_beach.jpg",
+      "https://raw.githubusercontent.com/explorecat/catanduanes_tourist_spots/main/images/marilima_beach1.jpg",
+       "https://raw.githubusercontent.com/explorecat/catanduanes_tourist_spots/main/images/marilima_beach2.jpg",
+       "https://raw.githubusercontent.com/explorecat/catanduanes_tourist_spots/main/images/marilima_beach3.jpg",
+      
     ],
     "about": "The unspoiled beach is bordered by gleaming white sand...",
     "emergency": "Virac Emergency: 0999-999-9999",
